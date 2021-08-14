@@ -1,0 +1,37 @@
+S:\Quản lí\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.csprojAssemblyReference.cache
+S:\Quản lí\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.Form1.resources
+S:\Quản lí\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.Properties.Resources.resources
+S:\Quản lí\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.csproj.GenerateResource.cache
+S:\Quản lí\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.exe.config
+S:\Quản lí\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.exe
+S:\Quản lí\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.pdb
+S:\Quản lí\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.exe
+S:\Quản lí\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.pdb
+S:\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.exe.config
+S:\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.exe
+S:\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.pdb
+S:\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.csprojAssemblyReference.cache
+S:\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.Form1.resources
+S:\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.Properties.Resources.resources
+S:\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.csproj.GenerateResource.cache
+S:\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.exe
+S:\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.pdb
+S:\2020 HK2\LT Window\Bài tập nộp\Đồ án\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.exe.config
+S:\2020 HK2\LT Window\Bài tập nộp\Đồ án\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.exe
+S:\2020 HK2\LT Window\Bài tập nộp\Đồ án\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.pdb
+S:\2020 HK2\LT Window\Bài tập nộp\Đồ án\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.csprojAssemblyReference.cache
+S:\2020 HK2\LT Window\Bài tập nộp\Đồ án\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.Form1.resources
+S:\2020 HK2\LT Window\Bài tập nộp\Đồ án\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.Properties.Resources.resources
+S:\2020 HK2\LT Window\Bài tập nộp\Đồ án\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.csproj.GenerateResource.cache
+S:\2020 HK2\LT Window\Bài tập nộp\Đồ án\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.exe
+S:\2020 HK2\LT Window\Bài tập nộp\Đồ án\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.pdb
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.exe.config
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.exe
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\bin\Debug\LuyenPaint.pdb
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.csproj.AssemblyReference.cache
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.Form1.resources
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.Properties.Resources.resources
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.csproj.GenerateResource.cache
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.csproj.CoreCompileInputs.cache
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.exe
+E:\Dữ liệu\2020 HK2\LT Window\Bài tập nộp\Đồ án\18110374 Tran Thuy Tien  LT Window\18110374 Trần Thuỷ Tiên  SimplePaint\Source code\LuyenPaint\LuyenPaint\obj\Debug\LuyenPaint.pdb
